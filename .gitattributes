@@ -1,0 +1,4 @@
+# Preserve os bytes dos artefatos e seus hashes SHA-256 na publicação.
+* -text
+*.apkg binary
+*.png binary
